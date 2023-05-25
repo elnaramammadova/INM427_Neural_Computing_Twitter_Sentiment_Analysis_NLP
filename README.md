@@ -4,10 +4,9 @@ The code was written in a Google Colab (due to limitations of GPU in M1 MacBook 
 </br>
 </br>
 Code files: 
-</br>
-PART1_PreProcessing.ipynb – codes for text preprocessing prior to feeding into the network. 
-PART2_BiLSTM.ipynb – all the codes for building and training BiLSTM model
-PART3.CNN.ipynb – all the codes used for building and training CNN model 
+</br>PART1_PreProcessing.ipynb – codes for text preprocessing prior to feeding into the network. 
+</br>PART2_BiLSTM.ipynb – all the codes for building and training BiLSTM model
+</br>PART3.CNN.ipynb – all the codes used for building and training CNN model 
 
 </br>
 </br>
